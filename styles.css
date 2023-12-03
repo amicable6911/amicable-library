@@ -1,0 +1,76 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.header{
+	background-image: url(assets/images/my1.jpeg);
+	background-position:center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	opacity: 0.8;
+}
+
+.header{
+	width: 100%;
+	height: 50vh;
+	
+}
+
+.header h1{
+	color:white;
+	margin-top: 60px;
+	font-size: 50px;
+	font-weight: bolder;
+	font-family: sans-serif;
+}
+
+.home-text{
+	font-weight: 80px;
+	color: blue;
+}
+
+.img-hover:hover{
+	background-color: rgba(0, 0,0, 0.4);
+	cursor: pointer;
+}
+
+.ogechi{
+	justify-content: center;
+	margin-left: 500px;
+
+}
+
+.images{
+	height: 20vh;
+	width: 70%;
+	margin-top: 10px;
+}
+
+.images49{
+	height: 20vh;
+	width: 70%;
+	margin-top: 10px;
+}
+
+.story{
+	background-color: white;
+	color: blue;
+}
+
+/* .input{
+	width: 100%;
+	height: 80vh;
+	background-color: rgb(29, 24, 24);
+	
+}
+
+.input{
+	background-color: 20%;
+	height: 50vh;
+	padding-top: 50px;
+	justify-content: left;
+	padding-left: 30px;
+	margin-top: 70px;
+	
+} */
